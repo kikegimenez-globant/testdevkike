@@ -1,10 +1,10 @@
 # Unique name for this workflow
-name: Deploy integration branch to integration and staging/uat orgs
+name: Deploy Development branch to QA org After Merge
 
 # Definition when the workflow should run
 on:
     push:
-      branches: [ integration ]
+      branches: [ development ]
       paths:
         - 'force-app/**'
             
