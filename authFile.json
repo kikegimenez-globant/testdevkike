@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "id": "00D4x000007JxEoEAK",
+    "accessToken": "00D4x000007JxEo!AQEAQD83h.ivzMXd5MzF9qa7PuPHMQ.JNISA5W7S38BbAfJEOQXDbzrqfvd7Grq9ljfiJqVF0HRQ4ATMxLISgjr4RW3ZSIcp",
+    "instanceUrl": "https://globant-5f0-dev-ed.my.salesforce.com",
+    "username": "admin@kikedev.com.dev",
+    "clientId": "PlatformCLI",
+    "connectedStatus": "Connected",
+    "sfdxAuthUrl": "force://PlatformCLI::5Aep861Bky2w54txC0nEfjd_I357vgVIuLeV2gmVtv7T0oomY27TxYOAA1WGkpaoVdiqdbxE8G4JNUb9x3MwzH1@globant-5f0-dev-ed.my.salesforce.com",
+    "alias": "palmeto-testdevkike"
+  },
+  "warnings": [
+    "This command will expose sensitive information that allows for subsequent activity using your current authenticated session.\nSharing this information is equivalent to logging someone in under the current credential, resulting in unintended access and escalation of privilege.\nFor additional information, please review the authorization section of the https://developer.salesforce.com/docs/atlas.en-us.234.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_web_flow.htm"
+  ]
+}
